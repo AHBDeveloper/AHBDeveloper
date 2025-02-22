@@ -1,69 +1,77 @@
-<!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Abdul Haseeb</h1>
-<h3 align="center"><font face="Arial">AHB is a passionate AI Engineer and Python Developer from Pakistan, working in AI & ML for 1+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+# Hey there! I'm Abdul Haseeb – Welcome to My GitHub Universe! 🌍
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<br><br>
-
-
-<!-- About Section -->
-- 🌟 **AI Enthusiast** | **Generative AI & LLMs** | **Django Developer**
-- 👨‍💻 Currently working on **Chatbots & Conversational AI**
-- 🔄 Looking to collaborate on **AI & ML Projects**
-- 💼 Exploring opportunities in **Upwork & AI Consulting**
-- ✉ Reach me at **[abdulhaseebpk511@gmail.com](mailto:abdulhaseebpk511@gmail.com)**
+Hello, I'm **Abdul Haseeb**, a **Principal Software Engineer** specializing in **Artificial Intelligence (AI)** with a strong passion for innovation and technology. I have expertise in **Machine Learning**, **Generative AI**, and **Natural Language Processing (NLP)**, and I am constantly exploring new ways to push the boundaries of AI-driven solutions.
 
 ---
 
-### 🔧 Languages and Tools:
+## 🚀 Expertise and Interests
 
-#### Programming Language Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="cpp" width="40" height="40"/>
-</p>
+### 🌟 Artificial Intelligence and Machine Learning
+- Designing and training complex models for supervised, unsupervised, and reinforcement learning tasks.
+- Expertise in **GEN AI** frameworks like **LangChain**, **LanGraph**, and **HuggingFace**.
 
-#### AI & ML Stack
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/>
-</p>
+### 🔍 Natural Language Processing (NLP)
+- Developing advanced NLP models using **Hugging Face Transformers**, **BERT**, **GPT**, and **LLMs**.
+- Creating AI-powered chatbots, including **QA systems** and **Conversational AI**.
 
-#### Web & Backend Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" alt="fastapi" width="40" height="40"/>
-</p>
+### 🎨 Generative AI
+- Implementing cutting-edge generative models like **GANs**, **VAEs**, and **Diffusion Models**.
+- Researching and building applications for **text generation**, **AI-driven creativity**, and **structured output generation**.
 
-#### DevOps & Cloud Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="aws" width="40" height="40"/>
-</p>
+### 🖥️ Web Development & Deployment
+- Full-stack web development using **Django** and **FastAPI**.
+- Deploying AI models on cloud platforms like **AWS**, **Azure**.
 
-#### Database Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="mongodb" width="40" height="40"/>
-</p>
-
-#### Editor / IDE I ♥
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs-code" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/>
-</p>
+### 📊 Research Areas
+- Building AI-driven solutions for **Conversational Insights and Analytics**.
+- Exploring **Large Language Models (LLMs)** and **AI for Business Automation**.
 
 ---
 
-### 👥 Connect with Me:
+## 🌟 Featured Projects
 
-- 💬 **Ask me about AI, LLMs, and Freelancing!**
-- 🌐 LinkedIn: [Abdul Haseeb](https://www.linkedin.com/in/abdul-haseeb-bhatti/)
-- 🎬 YouTube: **Coming Soon!**
+### 🔥 Generative AI Projects
+- **AI-Powered QA-Chatbot**: Developed a **QA chatbot** with Message History using **Hugging Face Transformers** and **OpenAI APIs**.
+- **RAG Document QA**: Developed a **RAG QA** with llaam3.
+- **PDF Query RAG**: Developed a **PDF RAG** with langchain and AstraDB.
+- **RAG Document QA**: Developed a **RAG QA** with llaam3.
+
+
+---
+
+## 🛠️ Tools and Technologies
+
+| **Category**            | **Tools & Frameworks**                  |
+|-------------------------|-----------------------------------------|
+| **Programming**         | Python, JavaScript,                     |
+| **Machine Learning**    | TensorFlow, PyTorch, Keras             |
+| **Natural Language Processing** | Hugging Face, OpenAI, NLTK, spaCy |
+| **Generative AI**       | GANs, Stable Diffusion, VAEs           |
+| **Web Development**     | Django, FastAPI, Streamlit             |
+| **Data Visualization**  | Matplotlib, Seaborn,                   |
+| **Version Control**     | Git, GitHub                            |
+| **Deployment**          | AWS, Azure                             |
+
+---
+
+## 📊 GitHub Stats
+
+![Abdul Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHBDeveloper&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHBDeveloper&layout=compact&theme=radical)
+
+
+---
+
+## 💌 Let's Connect
+
+- **LinkedIn**: [Abdul Haseeb](https://www.linkedin.com/in/abdul-haseeb-bhatti/)
+- **Email**: abdulhaseebpk511@gmail.com
+
+---
+
+## 🌟 Personal Mission
+
+I am passionate about leveraging **AI and NLP** to create **impactful solutions** that transform industries. My goal is to bridge the gap between **cutting-edge AI research** and **real-world applications**, making AI more accessible and efficient for businesses and individuals alike.
+
+---
