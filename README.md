@@ -10,7 +10,7 @@
 
 <!-- About Section -->
 - 🌟 **AI Enthusiast** | **Generative AI & LLMs** | **Django Developer**
-- 👨‍💻 Currently working on **QA Chatbots & Conversational AI**
+- 👨‍💻 Currently working on **Chatbots & Conversational AI**
 - 🔄 Looking to collaborate on **AI & ML Projects**
 - 💼 Exploring opportunities in **Upwork & AI Consulting**
 - ✉ Reach me at **[abdulhaseebpk511@gmail.com](mailto:abdulhaseebpk511@gmail.com)**
